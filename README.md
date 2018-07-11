@@ -1,4 +1,4 @@
 # ProjectForTest
 use for learning operation of Git
 Hello, world!
-update on master!
+Merged master and NewBranch.
