@@ -15,3 +15,5 @@ Merged master and NewBranch.
                                        "when": "textInputFocus && !editorReadonly" },
 { "key": "ctrl+shift+alt+backspace", "command": "deleteWordPartRight",
                                        "when": "textInputFocus && !editorReadonly" },
+{ "key": "ctrl+z", "command": "revokePreviousAction",
+                                       "when": "textInputFocus && !editorReadonly" },
