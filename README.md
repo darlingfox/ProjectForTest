@@ -2,6 +2,7 @@
 use for learning operation of Git
 Hello, world!
 Merged master and NewBranch.
+another update.
 
 { "key": "ctrl+alt+right",          "command": "cursorWordPartRight",
                                        "when": "textInputFocus" },
@@ -17,3 +18,5 @@ Merged master and NewBranch.
                                        "when": "textInputFocus && !editorReadonly" },
 { "key": "ctrl+z", "command": "revokePreviousAction",
                                        "when": "textInputFocus && !editorReadonly" },
+
+
